@@ -1,6 +1,6 @@
 # Howdy! I'm Aibel Jomon
 
-I am a Freshman Mechanical Engineering student at Texas A&M University. I am passionate about mechanical design, hardware, and bridging the gap between physical projects and software.
+I am a Freshman Mechanical Engineering student at Texas A&M University. I am passionate about mechanical design, control systems, and making cool stuff.
 
 ## Skills & Tools
 * **CAD/Hardware:** Fusion 360, 3D Printing, Drafting
