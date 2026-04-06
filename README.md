@@ -8,7 +8,7 @@ I am a Freshman Mechanical Engineering student at Texas A&M University. I am pas
 
 ## Featured Work
 * **[Mechanical CAD Portfolio](https://github.com/XoxoAJ5/CAD_Projects)** - A collection of my 3D models, technical drawings, and assemblies.
-* **[Code Practice](https://github.com/XoxoAJ5/C_Code)** - There's a whole lot of C code, C++, and Python. It's just a random collection of code for practice or other various reasons.
+* **[Embedded C](https://github.com/XoxoAJ5/C_Code)** - C files I have directly used for my embedded projects with ESP32, STM32, and Rasberry Pi Pico
 * **[Rust Projects](https://github.com/XoxoAJ5/Rust_Projects)** - I really like using Rust, and I will implement it in my projects soon
 ---
 **Contact:** aibeljomon7@gmail.com | ajomon@tamu.edu | www.linkedin.com/in/aibel
