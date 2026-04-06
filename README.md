@@ -5,6 +5,7 @@ I am a Freshman Mechanical Engineering student at Texas A&M University. I am pas
 ## Skills & Tools
 * **CAD/Manufacturing:** SolidWorks, Fusion 360, 3D Printing, Stick Welding, FEA
 * **Programming:** Python, C, Rust
+* **Electronics** Through Hole Soldering, Circuit Design, MicroControllers, Embedded Systems
 
 ## Featured Work
 * **[Mechanical CAD Portfolio](https://github.com/XoxoAJ5/CAD_Projects)** - A collection of my 3D models, technical drawings, and assemblies.
